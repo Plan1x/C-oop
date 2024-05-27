@@ -2,6 +2,7 @@
 #include <iostream>
 #include <memory.h>
 using namespace std;
+
 class Stack
 {
 private:
