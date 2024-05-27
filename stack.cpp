@@ -1,5 +1,5 @@
 #include "stack.h"
-Stack& Stack :: operator = (const  Stack& copy_stack)
+Stack& Stack :: operator = (const Stack& copy_stack)
 {
 	if (this == &copy_stack)
 	{
